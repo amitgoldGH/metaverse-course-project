@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "62e1848275a5b2f251f42e55"
+  },
+  "username": "system",
+  "password": "$2b$10$S/kkTz2MWW.Otpk2IS7YEu9Lpe.O7M6RIQ1l73lyY6KCJh0naS.0C",
+  "usertype": "dealer",
+  "balance": 999999,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658946690584"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659026414314"
+    }
+  },
+  "__v": 0
+}]
