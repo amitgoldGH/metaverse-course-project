@@ -48,9 +48,12 @@ If you are the owner of a lot, you have an additional menu (that isn't visible i
 4. Transferring ownership to another user.
 
 
+
 Diagram of the frontend:
+
 ![image](https://user-images.githubusercontent.com/17098942/221114464-0375a2f7-003b-48f6-8f09-fbabbff79c87.png)
 
 
 Diagram of the backend:
+
 ![image](https://user-images.githubusercontent.com/17098942/221114485-a182f038-67e9-4c6f-ae5b-9d0208c9d88f.png)
